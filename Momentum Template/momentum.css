@@ -1,0 +1,45 @@
+.mainContainer{
+    /* background-color: black; */
+    background-image: url(https://static.vecteezy.com/system/resources/previews/046/903/585/non_2x/dark-green-sky-with-green-clouds-background-border-of-clouds-simple-cartoon-design-flat-style-illustration-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.pageName{
+    font-family: system-ui;
+    font-weight: bolder;
+}
+.signinBtn{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.signinBtn:hover{
+    border: none;
+    background-color: rgb(255, 102, 0);
+    border-radius: 22px;
+    padding: 10px;
+    width: 100px;
+}
+.signupBtn{
+    font-weight: bold;
+    background-color: rgb(255, 102, 0);
+    border-radius: 22px;
+    padding: 10px;
+    width: 100px;
+}
+.startBtn{
+    font-weight: bold;
+    background-color: rgb(255, 102, 0);
+    border-radius: 22px;
+    padding: 10px;
+    width: 150px;
+
+}
+.demoBtn{
+    font-weight: bold;
+    background-color: rgb(75, 69, 69);
+    border-radius: 22px;
+    padding: 10px;
+    width: 150px;
+    margin-left: 12px;
+}
